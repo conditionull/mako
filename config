@@ -1,13 +1,12 @@
-
 # Appearance
 font=JetBrainsMono Nerd Font 10
-background-color=#1e1e2ecc
+background-color=#1a151acc
 text-color=#cdd6f4
 border-color=#89b4fa
 border-size=0
 border-radius=12
 padding=12
-margin=10,20
+margin=10,10
 width=320
 height=100
 icons=1
@@ -30,7 +29,7 @@ background-color=#313244cc
 
 [urgency=normal]
 border-color=#89b4fa
-background-color=#1e1e2ecc
+background-color=#1a151acc
 
 [urgency=critical]
 border-color=#f38ba8
